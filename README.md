@@ -31,3 +31,19 @@ The NE555 operates in astable mode and generates clock pulses. These pulses are 
 
 ## Author
 Ankit Yadav
+## Circuit Diagram
+
+> Upload `circuit-diagram.png` to the main folder, then use:
+
+![Circuit Diagram](circuit-diagram.png)
+
+## Simulation Screenshots
+
+### Red Light
+![Red Light](screenshots/red-light.png.png)
+
+### Yellow Light
+![Yellow Light](screenshots/yellow-light.png.png)
+
+### Green Light
+![Green Light](screenshots/green-light.png.png)
